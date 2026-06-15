@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Alternate Ammo",
+	"Description": "Crafting ammo now has the alternate option to no longer use Smokeless Powder, Recipe unlocked via Hard Drive once Rifle and Compacted Coal are Researched",
+	"Category": "Modding",
+	"CreatedBy": "Carbon",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"BuiltInInitialFeatureState": "Active",
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.12.0"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=491125"
+}
